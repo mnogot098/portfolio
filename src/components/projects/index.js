@@ -11,61 +11,75 @@ const Projects = () => {
                 <div className='project'>
                     <img src={ecommerce_log} alt="not found"/>  
                     <div className='tet-zone'>
-                        <h2>Project title</h2>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took</p>
-                        <button>
-                            <a href="">
-                            <FontAwesomeIcon icon={faGithub} color="#02c43"/> Visit
-                            </a>
-                        </button>
+                        <h2>Project title
+                        <a 
+                    target="_blank" 
+                    rel="noreferrer" 
+                    href="https://github.com/mnogot098">
+                        
+                        <FontAwesomeIcon icon={faGithub} color="#093685"/>
+                    </a>
+                        </h2>
+                        
                     </div>                  
                 </div>
                 <div className='project'>
                     <img src={ecommerce_log} alt="not found"/>  
                     <div className='tet-zone'>
-                        <h2>Project title</h2>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took</p>
-                        <button>
-                            <a href="">
-                            <FontAwesomeIcon icon={faGithub} color="#02c43"/> Visit
-                            </a>
-                        </button>
+                        <h2>Project title
+                        <a 
+                    target="_blank" 
+                    rel="noreferrer" 
+                    href="https://github.com/mnogot098">
+                        
+                        <FontAwesomeIcon icon={faGithub} color="#093685"/>
+                    </a>
+                        </h2>
+                        
                     </div>                  
                 </div>
                 <div className='project'>
                     <img src={ecommerce_log} alt="not found"/>  
                     <div className='tet-zone'>
-                        <h2>Project title</h2>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took</p>
-                        <button>
-                            <a href="">
-                            <FontAwesomeIcon icon={faGithub} color="#02c43"/> Visit
-                            </a>
-                        </button>
+                        <h2>Project title
+                        <a 
+                    target="_blank" 
+                    rel="noreferrer" 
+                    href="https://github.com/mnogot098">
+                        
+                        <FontAwesomeIcon icon={faGithub} color="#093685"/>
+                    </a>
+                        </h2>
+                        
                     </div>                  
                 </div>
                 <div className='project'>
                     <img src={ecommerce_log} alt="not found"/>  
                     <div className='tet-zone'>
-                        <h2>Project title</h2>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took</p>
-                        <button>
-                            <a href="">
-                            <FontAwesomeIcon icon={faGithub} color="#02c43"/> Visit
-                            </a>
-                        </button>
+                        <h2>Project title
+                        <a 
+                    target="_blank" 
+                    rel="noreferrer" 
+                    href="https://github.com/mnogot098">
+                        
+                        <FontAwesomeIcon icon={faGithub} color="#093685"/>
+                    </a>
+                        </h2>
                     </div>                  
                 </div>
                 <div className='project'>
                     <img src={ecommerce_log} alt="not found"/>  
                     <div className='tet-zone'>
-                        <h2>Project title</h2>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took</p>
-                        <button>
-                            <a href="">
-                            <FontAwesomeIcon icon={faGithub} color="#02c43"/> Visit
-                            </a>
-                        </button>
+                        <h2>Project title
+                        <a 
+                    target="_blank" 
+                    rel="noreferrer" 
+                    href="https://github.com/mnogot098">
+                        
+                        <FontAwesomeIcon icon={faGithub} color="#093685"/>
+                    </a>
+                        </h2>
+                        
                     </div>                  
                 </div>
             </div>

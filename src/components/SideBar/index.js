@@ -10,13 +10,13 @@ const SideBar = () => {
         <div className='nav-bar'>
             <nav>
                 <NavLink exact="true" activeclassname="active" to="/">
-                    <FontAwesomeIcon icon={faHome} color="#022c43"/>
+                    <FontAwesomeIcon icon={faHome} color="white"/>
                 </NavLink>
                 <NavLink exact="true" activeclassname="active" className="about-link" to="/about">
-                    <FontAwesomeIcon icon={faUser} color="#022c43"/>
+                    <FontAwesomeIcon icon={faUser} color="white"/>
                 </NavLink>
                 <NavLink exact="true" activeclassname="active" className="contact-link" to="/contact">
-                    <FontAwesomeIcon icon={faEnvelope} color="#022c43"/>
+                    <FontAwesomeIcon icon={faEnvelope} color="white"/>
                 </NavLink>
             </nav>
             <ul>
@@ -26,7 +26,7 @@ const SideBar = () => {
                     rel="noreferrer" 
                     href="https://www.linkedin.com/in/mohamed-ng/">
 
-                        <FontAwesomeIcon icon={faLinkedin}/>
+                        <FontAwesomeIcon icon={faLinkedin} color="white"/>
                     </a>
                 </li>
                 <li>
@@ -35,7 +35,7 @@ const SideBar = () => {
                     rel="noreferrer" 
                     href="https://github.com/mnogot098">
                         
-                        <FontAwesomeIcon icon={faGithub}/>
+                        <FontAwesomeIcon icon={faGithub} color="white"/>
                     </a>
                 </li>
             </ul>

@@ -21,8 +21,8 @@ const Contact = () => {
         <div className='container contact-page'>
             <div className='text-zone'>
               <h1>Contact me,</h1>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+              <p>
+              Currently I am interested in building web projects,espcially large onces<br/>My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you! 
               </p>
               <div className='contact-form'>
                 <form ref={refForm} onSubmit={sendEmail}>

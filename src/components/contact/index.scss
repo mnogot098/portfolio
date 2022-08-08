@@ -14,7 +14,7 @@
         h1
         {
             font-size: 50px;
-            color: yellow;
+            color: black;
             font-family:'Arial';
             font-weight: 400;
         }
@@ -24,8 +24,7 @@
             font-family: 'Arial';
             text-align: justify;
             text-justify: inter-word;
-            color:white;
-        };
+            };
     }
     .contact-form
     {
@@ -39,12 +38,7 @@
 
             input,textarea {
                 border: none;
-                background-color: #126491b4;
-            }
-
-            textarea::placeholder,input::placeholder
-            {
-                color: white;
+                background-color: rgb(223, 225, 226);
             }
 
             li
@@ -72,10 +66,12 @@
             {
                 border: none;
                 padding: 10px 20px;
-                background-color: rgba(17, 26, 158, 0.801);
+                background-color: #022c43;
                 color: white;
                 font-size: 20px;
+                cursor: pointer;
             }
+
         }
     }
 }
